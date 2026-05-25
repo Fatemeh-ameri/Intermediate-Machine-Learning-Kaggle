@@ -1,13 +1,13 @@
 # Intermediate Machine Learning (Kaggle)
 
-This repository contains my practice notebooks from the **Intermediate Machine Learning** course on Kaggle.
+This repository contains my practice notebooks from Kaggle's **Intermediate Machine Learning** course.
 
-The notebooks explore practical machine learning concepts using Python and scikit-learn.
+The notebooks cover practical machine learning topics using Python, pandas, scikit-learn, and XGBoost.
 
 ## Topics Covered
 
-- Cross Validation
-- Data Leakage
+- Cross-validation
+- Data leakage
 - Pipelines
-- Handling Categorical Variables
+- Handling categorical variables
 - XGBoost
